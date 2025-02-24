@@ -1,8 +1,8 @@
 # Airbnb JavaScript Style Guide() {
 
-Now I'd doin some other stuff
-And yet another stuff
-And finally
+Some text for first commit
+Another change for second commit
+And the final one change
 
 *A mostly reasonable approach to JavaScript*
 
