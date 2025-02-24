@@ -5,6 +5,7 @@ Another change for second commit
 And the final one change
 
 Lets do more stuff
+MORE
 
 *A mostly reasonable approach to JavaScript*
 
