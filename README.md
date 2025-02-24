@@ -1,7 +1,8 @@
 # Airbnb JavaScript Style Guide() {
 
 Now I'd doin some other stuff
-And eyt another stuff
+And yet another stuff
+And finally
 
 *A mostly reasonable approach to JavaScript*
 
